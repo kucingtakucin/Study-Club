@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d15cbed-a3e3-4175-aaff-1582916093ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pertemuan3/latihan1.php" beforeDir="false" afterPath="$PROJECT_DIR$/Pertemuan3/latihan1.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pertemuan3/latihan2.php" beforeDir="false" afterPath="$PROJECT_DIR$/Pertemuan3/latihan2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pertemuan3/latihan3.php" beforeDir="false" afterPath="$PROJECT_DIR$/Pertemuan3/latihan3.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599899868468</updated>
-      <workItem from="1599899875693" duration="3998000" />
+      <workItem from="1599899875693" duration="4681000" />
     </task>
     <servers />
   </component>
