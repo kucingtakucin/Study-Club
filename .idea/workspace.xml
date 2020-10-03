@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d15cbed-a3e3-4175-aaff-1582916093ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Pertemuan5/latihan1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pertemuan5/latihan2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pertemuan6/latihan1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pertemuan6/latihan2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pertemuan6/latihan3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pertemuan6/otakudesu.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pertemuan5/latihan1.php" beforeDir="false" afterPath="$PROJECT_DIR$/Pertemuan5/latihan1.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +56,7 @@
       <updated>1599899868468</updated>
       <workItem from="1599899875693" duration="4681000" />
       <workItem from="1601112410188" duration="2495000" />
+      <workItem from="1601710409061" duration="4128000" />
     </task>
     <servers />
   </component>
@@ -60,9 +64,9 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2121" y="461" width="399" height="164" key="NewPhpFileDialog" timestamp="1601112539481">
+    <state x="2121" y="461" width="399" height="164" key="NewPhpFileDialog" timestamp="1601716311767">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state x="2121" y="461" width="399" height="164" key="NewPhpFileDialog/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1601112539481" />
+    <state x="2121" y="461" width="399" height="164" key="NewPhpFileDialog/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1601716311767" />
   </component>
 </project>

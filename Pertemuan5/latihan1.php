@@ -1,8 +1,6 @@
 <?php
 // Array biasa
-$anime_romance = [
-    'Kanojo Okarishimasu',
-    'Tonikaku Kawaii'
+$anime_romance = ['Kanojo Okarishimasu', 'Tonikaku Kawaii'
 ];
 $anime_romance[3] = 'Clannad';
 
